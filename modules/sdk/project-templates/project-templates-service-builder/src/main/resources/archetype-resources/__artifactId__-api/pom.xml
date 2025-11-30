@@ -40,7 +40,7 @@
 		<dependency>
 			<groupId>com.liferay</groupId>
 			<artifactId>com.liferay.petra.lang</artifactId>
-			<version>3.0.0</version>
+			<version>4.2.1</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
@@ -59,7 +59,7 @@
 		<dependency>
 			<groupId>com.liferay</groupId>
 			<artifactId>com.liferay.petra.lang</artifactId>
-			<version>4.0.1</version>
+			<version>4.2.1</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
